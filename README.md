@@ -1,5 +1,6 @@
-![Screenshot from 2024-02-09 16-12-25](https://github.com/panuozzo77/MySpellChecker/assets/38082151/b68cdbb0-8cb4-4ccc-895e-1c20b130bc08)
-
+<p align="center">
+  <img width="500" height="300" src="https://github.com/panuozzo77/MySpellChecker/assets/38082151/b68cdbb0-8cb4-4ccc-895e-1c20b130bc08">
+</p>
 ## Goal
 implement a spell checker that tells if the written text is correct
 
