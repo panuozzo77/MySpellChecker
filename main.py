@@ -7,7 +7,7 @@ import evaluation.utils as evaluation
 def google_search(query):
     api_key, cx = file.get_credentials()
     url = f"https://www.googleapis.com/customsearch/v1?key={api_key}&cx={cx}&q={query}"
-    print(f"Here's the url you searched {url}")
+    #print(f"Here's the url you searched {url}")
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT  10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
