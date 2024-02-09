@@ -5,14 +5,14 @@ implement a spell checker that tells if the written text is correct
 - Google API
 
 ## Usage
-**FOR NOW** you need to add a file "credentials.conf" in the root folder of the project like this:
+**FOR NOW**(maybe the project will change tools) you need to add a file "credentials.conf" in the root folder of the project like this:
 ``` bash
 [Credentials]
 api_key=your_Api_Key
 cx=your_code here
 ```
 
-### How to get these credentials
+### How to get these credentials:
 1. Go [here](https://programmablesearchengine.google.com/controlpanel/all) for getting the _cx_.
 ![image](https://github.com/panuozzo77/MySpellChecker/assets/38082151/e305699b-5b69-441c-afa1-c6a5c08951ee)
 
