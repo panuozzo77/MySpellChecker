@@ -1,6 +1,11 @@
-<p align="center">
-  <img width="500" height="300" src="https://github.com/panuozzo77/MySpellChecker/assets/38082151/b68cdbb0-8cb4-4ccc-895e-1c20b130bc08">
-</p>
+```python
+#               __            _ _   ___ _               _             
+#   /\/\  _   _/ _\_ __   ___| | | / __\ |__   ___  ___| | _____ _ __ 
+#  /    \| | | \ \| '_ \ / _ \ | |/ /  | '_ \ / _ \/ __| |/ / _ \ '__|
+# / /\/\ \ |_| |\ \ |_) |  __/ | / /___| | | |  __/ (__|   <  __/ |   
+# \/    \/\__, \__/ .__/ \___|_|_\____/|_| |_|\___|\___|_|\_\___|_|   
+#         |___/   |_|                                                made by Cristian Porzio
+```                                   
 
 ## Goal
 This project serves as a playground for exploring various methods and techniques to verify the syntactic correctness of text. Whether you're a language enthusiast, a beginner in programming, or a seasoned developer looking to dive into natural language processing (NLP), this repository offers a hands-on learning experience.
